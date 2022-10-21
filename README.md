@@ -9,8 +9,7 @@ predictions from the data in hand.
 * It deals with collective informative data, interpreting those data, and drawing a
 conclusion from that data.
 * It is used in many disciplines like marketing, business, healthcare, telecom, etc.
-
-<br>
+* <br>
 
 #### Types of Statistics
 
@@ -41,10 +40,12 @@ Steps to find the Mean/Average:
 dataset.
 * Calculate the total number present in the dataset.
 * Divide sum of observation to the total number of
-observation. 
+observation.
+<br>
 Formula:
-![image](Mean_formula.PNG)
+<br>
 
+![image](Mean_formula.PNG)
 <br>
 
 2. __Median__ : Median is the middle value of the entire dataset. Its split whole dataset in two parts and take the middle value of the datasets. It’s also called the 50th percentile.
@@ -114,6 +115,7 @@ __Example__:
 * If value of variance is closer to mean then it's a __low variance__. 
 * If there is significant difference in the value from the mean then it's a __high variance__.  
 * Variance is denoted by sigma square.
+<br>
 
 __Formulas__
 <br>
@@ -159,9 +161,9 @@ __Types of Skewness__
 <br>
 
 ### Sample and Population
-▸ A population is the entire group that you want to draw conclusions about.
-▸ A sample is the specific group that you will collect data from.
-▸ The size of the sample is always less than the total size of the population.
+* A population is the entire group that you want to draw conclusions about.
+* A sample is the specific group that you will collect data from.
+* The size of the sample is always less than the total size of the population.
 <br>
 
 ![image](Sample_population.PNG)
@@ -175,18 +177,18 @@ __Types of Skewness__
 
 ### Characteristics of Discrete Data
 
-▸ Discrete data is often used in simple statistical analysis because it's easy to summarize and compute.
-▸ Discrete data includes discrete variables that are finite, numeric, countable, and non-negative integers (5, 10, 15, and so on).
-▸ Discrete data can be easily visualized and demonstrated using simple statistical methods such as bar charts, line charts, or pie charts.
-▸ Discrete data can also be categorical - contain a finite number of data values, such as the gender of a person.
+* Discrete data is often used in simple statistical analysis because it's easy to summarize and compute.
+* Discrete data includes discrete variables that are finite, numeric, countable, and non-negative integers (5, 10, 15, and so on).
+* Discrete data can be easily visualized and demonstrated using simple statistical methods such as bar charts, line charts, or pie charts.
+* Discrete data can also be categorical - contain a finite number of data values, such as the gender of a person.
 <br>
 
 ### Characteristics of Continuous Data
 
-▸ Continuous data changes over time and can have different values at different time intervals.
-▸ Continuous data is made up of random variables, which may or may not be whole numbers.
-▸ Continuous data is measured using data analysis methods such as line graphs,skews, and so on.
-▸ Regression analysis is one of the most common types of continuous data analysis.
+* Continuous data changes over time and can have different values at different time intervals.
+* Continuous data is made up of random variables, which may or may not be whole numbers.
+* Continuous data is measured using data analysis methods such as line graphs,skews, and so on.
+* Regression analysis is one of the most common types of continuous data analysis.
 <br>
 You can see my notebook. All  the work is explained in detail.
 
