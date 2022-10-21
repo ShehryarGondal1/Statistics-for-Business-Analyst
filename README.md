@@ -9,7 +9,7 @@ predictions from the data in hand.
 * It deals with collective informative data, interpreting those data, and drawing a
 conclusion from that data.
 * It is used in many disciplines like marketing, business, healthcare, telecom, etc.
-* <br>
+<br>
 
 #### Types of Statistics
 
